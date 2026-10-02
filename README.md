@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 Run the application:
 
-streamlit run app.py
+https://handwritten-digit-recognizer-avhnknurw9ftm3qzez4h5g.streamlit.app/
 
 🚀 Future Improvements
 
@@ -120,6 +120,6 @@ Improving the user interface
 
 👩‍💻 Author
 
-YOUR NAME
+Ashutosh Tiwari
 
 This project was completed as part of an internship project.
